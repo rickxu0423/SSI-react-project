@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SSI-react-project/static/css/main.d1b05096.chunk.css",
-    "main.js": "/SSI-react-project/static/js/main.ea62a666.chunk.js",
-    "main.js.map": "/SSI-react-project/static/js/main.ea62a666.chunk.js.map",
+    "main.js": "/SSI-react-project/static/js/main.4f020d24.chunk.js",
+    "main.js.map": "/SSI-react-project/static/js/main.4f020d24.chunk.js.map",
     "runtime-main.js": "/SSI-react-project/static/js/runtime-main.87ef9aee.js",
     "runtime-main.js.map": "/SSI-react-project/static/js/runtime-main.87ef9aee.js.map",
     "static/js/2.1ed48805.chunk.js": "/SSI-react-project/static/js/2.1ed48805.chunk.js",
     "static/js/2.1ed48805.chunk.js.map": "/SSI-react-project/static/js/2.1ed48805.chunk.js.map",
     "index.html": "/SSI-react-project/index.html",
-    "precache-manifest.26d35618e4e3c8e596d0d6b9ce23fe85.js": "/SSI-react-project/precache-manifest.26d35618e4e3c8e596d0d6b9ce23fe85.js",
+    "precache-manifest.8c2b88a07c07abb688bc50b9c31b2134.js": "/SSI-react-project/precache-manifest.8c2b88a07c07abb688bc50b9c31b2134.js",
     "service-worker.js": "/SSI-react-project/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/SSI-react-project/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.1ed48805.chunk.js.LICENSE.txt": "/SSI-react-project/static/js/2.1ed48805.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.87ef9aee.js",
     "static/js/2.1ed48805.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ea62a666.chunk.js"
+    "static/js/main.4f020d24.chunk.js"
   ]
 }
