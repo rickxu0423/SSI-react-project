@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/SSI-react-project/static/css/main.72506116.chunk.css",
-    "main.js": "/SSI-react-project/static/js/main.3fdc6d30.chunk.js",
-    "main.js.map": "/SSI-react-project/static/js/main.3fdc6d30.chunk.js.map",
+    "main.js": "/SSI-react-project/static/js/main.a833fcd4.chunk.js",
+    "main.js.map": "/SSI-react-project/static/js/main.a833fcd4.chunk.js.map",
     "runtime-main.js": "/SSI-react-project/static/js/runtime-main.87ef9aee.js",
     "runtime-main.js.map": "/SSI-react-project/static/js/runtime-main.87ef9aee.js.map",
-    "static/js/2.f8ee5cb5.chunk.js": "/SSI-react-project/static/js/2.f8ee5cb5.chunk.js",
-    "static/js/2.f8ee5cb5.chunk.js.map": "/SSI-react-project/static/js/2.f8ee5cb5.chunk.js.map",
+    "static/js/2.a71a7a70.chunk.js": "/SSI-react-project/static/js/2.a71a7a70.chunk.js",
+    "static/js/2.a71a7a70.chunk.js.map": "/SSI-react-project/static/js/2.a71a7a70.chunk.js.map",
     "index.html": "/SSI-react-project/index.html",
-    "precache-manifest.9abc6dc6f9d9227f193db53dcfecdca1.js": "/SSI-react-project/precache-manifest.9abc6dc6f9d9227f193db53dcfecdca1.js",
+    "precache-manifest.e4c9e80a3327af7922915b91e6e078ab.js": "/SSI-react-project/precache-manifest.e4c9e80a3327af7922915b91e6e078ab.js",
     "service-worker.js": "/SSI-react-project/service-worker.js",
     "static/css/main.72506116.chunk.css.map": "/SSI-react-project/static/css/main.72506116.chunk.css.map",
-    "static/js/2.f8ee5cb5.chunk.js.LICENSE.txt": "/SSI-react-project/static/js/2.f8ee5cb5.chunk.js.LICENSE.txt"
+    "static/js/2.a71a7a70.chunk.js.LICENSE.txt": "/SSI-react-project/static/js/2.a71a7a70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.87ef9aee.js",
-    "static/js/2.f8ee5cb5.chunk.js",
+    "static/js/2.a71a7a70.chunk.js",
     "static/css/main.72506116.chunk.css",
-    "static/js/main.3fdc6d30.chunk.js"
+    "static/js/main.a833fcd4.chunk.js"
   ]
 }
