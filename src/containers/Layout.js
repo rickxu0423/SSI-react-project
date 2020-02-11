@@ -1,5 +1,4 @@
 import React from 'react';
-//import { Link } from 'react-router-dom';
 import Header from './header/Header';
 import LeftMenu from './menu/LeftMenu'
 
@@ -17,11 +16,13 @@ class Layout extends React.Component {
     render() {
         console.log(this.props.show);
         return(
-            <div className='layout-container'>
+            <div>
                 <div><Header /></div>
-                { this.props.show ? <LeftMenu /> : null}
-                <div>
-                    {this.props.children}
+                <div className='layout-container'>
+                    { this.props.show ? <LeftMenu /> : null}
+                    <div className='content-container'>
+                        {this.props.children}
+                    </div>
                 </div>
             </div>
         )
